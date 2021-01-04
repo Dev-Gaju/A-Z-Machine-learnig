@@ -70,3 +70,4 @@ cnn.fit_generator(training_set,
 #val accuracy define the test set accuracy
 
 
+
